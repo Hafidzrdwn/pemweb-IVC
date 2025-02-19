@@ -1,10 +1,11 @@
-# Praktek 1 - Pemrograman Web
+# ✨ Praktek 1 - Pemrograman Web
 
-## Deskripsi
+## ✏️ Deskripsi
 
-Repository ini berisi file-file yang digunakan untuk Praktek 1 - Pemrograman Web Kelas IV-C.
+Repository ini berisi file-file yang digunakan untuk Praktek 1 - Pemrograman Web Kelas IV-C,
+UPN "Veteran" Jawa Timur - Fakultas Ilmu Komputer - Sistem Informasi
 
-## Anggota Kelompok 1
+## 👥 Anggota Kelompok 1
 
 > 1. Arnoldy Mahesa Riadhino (23082010084)
 > 2. Hafidz Ridwan Cahya (23082010093)
